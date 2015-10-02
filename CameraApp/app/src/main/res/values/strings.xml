@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">CameraApp</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+<!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="discard">Discard</string>
+    <string name="save">Save</string>
+    <string name="take_pic">Take picture</string>
+    <string name="grid_item">grid item</string>
+    <string name="no_photos">No photos</string>
+</resources>

@@ -1,0 +1,9 @@
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+    <EditTextPreference android:title="Longitude"
+        android:key="long"
+        android:summary="Longitude"/>
+
+    <EditTextPreference android:title="Latitude"
+        android:key="lat"
+        android:summary="Latitude"/>
+</PreferenceScreen>

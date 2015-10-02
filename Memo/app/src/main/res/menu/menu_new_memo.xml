@@ -1,0 +1,10 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.example.thodoris.myapplication.NewMemo">
+
+    <item android:id="@+id/action_save" android:title="@string/action_add"
+        android:orderInCategory="200" app:showAsAction="ifRoom"
+        android:icon="@drawable/ic_action_accept"/>
+
+</menu>
